@@ -1,0 +1,14 @@
+1.useState - 
+useState is a React Hook used in functional components to add state variables to the component.
+It provides a way to manage state in functional components, which were previously stateless.
+The useState hook returns an array with two elements:
+The current value of the state variable.
+A function to update the state variable.
+It takes the initial state as an argument and returns the current state value and a function to update it.
+You can call the state updating function returned by useState to update the state variable and trigger a re-render of the component
+
+2. map method -
+The map method is a built-in JavaScript array method used to iterate over an array and create a new array by transforming each element based on a callback function.
+
+3. Google Icon used
+4. pure CSS3
